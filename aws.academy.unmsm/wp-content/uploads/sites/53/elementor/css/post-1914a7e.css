@@ -1,0 +1,130 @@
+.elementor-191 .elementor-element.elementor-element-f0f929d:not(.elementor-motion-effects-element-type-background), .elementor-191 .elementor-element.elementor-element-f0f929d > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#72147E;}.elementor-191 .elementor-element.elementor-element-f0f929d{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:30px 0px 30px 0px;}.elementor-191 .elementor-element.elementor-element-f0f929d > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-191 .elementor-element.elementor-element-3ac3a84 .elementor-heading-title{color:#FFFFFF;font-family:"Roboto", Sans-serif;font-size:30px;}.elementor-191 .elementor-element.elementor-element-3ac3a84 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-191 .elementor-element.elementor-element-34269b8 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-191 .elementor-element.elementor-element-34269b8{margin-top:40px;margin-bottom:40px;padding:0px 0px 0px 0px;}.elementor-191 .elementor-element.elementor-element-800d539 .elementor-heading-title{color:#981D97;font-family:"Roboto", Sans-serif;font-size:40px;font-weight:600;}.elementor-191 .elementor-element.elementor-element-800d539 > .elementor-widget-container{margin:0px 0px 20px 0px;}.elementor-191 .elementor-element.elementor-element-d5af3f6 .elementor-heading-title{color:#818181;font-family:"Roboto", Sans-serif;font-size:20px;font-weight:500;letter-spacing:0.4px;word-spacing:6px;}.elementor-191 .elementor-element.elementor-element-4865635{margin-top:0px;margin-bottom:40px;}.elementor-191 .elementor-element.elementor-element-8e3566e .elementor-heading-title{color:#981D97;font-size:40px;font-weight:600;}.elementor-191 .elementor-element.elementor-element-5f8c282{margin-top:40px;margin-bottom:0px;}.elementor-191 .elementor-element.elementor-element-5837ecc{margin-top:15px;margin-bottom:45px;}.elementor-191 .elementor-element.elementor-element-b6bc76d{margin-top:0px;margin-bottom:40px;}.elementor-191 .elementor-element.elementor-element-a5a2c41 .elementor-heading-title{color:#981D97;font-size:40px;font-weight:600;}.elementor-191 .elementor-element.elementor-element-2196627 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-191 .elementor-element.elementor-element-2196627{margin-top:40px;margin-bottom:40px;padding:0px 0px 0px 0px;}.elementor-191 .elementor-element.elementor-element-3b28201 .elementor-heading-title{color:#818181;font-family:"Roboto", Sans-serif;font-size:20px;font-weight:500;letter-spacing:0.4px;word-spacing:6px;}.elementor-191 .elementor-element.elementor-element-d28ac0f .elementor-button{font-family:"Roboto", Sans-serif;font-weight:700;fill:#FFFFFF;color:#FFFFFF;background-color:#981D97;border-radius:25px 25px 25px 25px;}.elementor-191 .elementor-element.elementor-element-d28ac0f > .elementor-widget-container{margin:20px 0px 0px 0px;}:root{--page-title-display:none;}body.elementor-page-191{margin:-30px 0px 0px 0px;}@media(max-width:767px){.elementor-191 .elementor-element.elementor-element-800d539 .elementor-heading-title{font-size:30px;}.elementor-191 .elementor-element.elementor-element-800d539 > .elementor-widget-container{margin:0px 0px 10px 0px;}.elementor-191 .elementor-element.elementor-element-d5af3f6 .elementor-heading-title{font-size:16px;}.elementor-191 .elementor-element.elementor-element-99aedb7 img{max-width:60%;}.elementor-191 .elementor-element.elementor-element-4865635{margin-top:0px;margin-bottom:10px;}.elementor-191 .elementor-element.elementor-element-8e3566e .elementor-heading-title{font-size:30px;}.elementor-191 .elementor-element.elementor-element-b6bc76d{margin-top:0px;margin-bottom:10px;}.elementor-191 .elementor-element.elementor-element-a5a2c41 .elementor-heading-title{font-size:30px;}.elementor-191 .elementor-element.elementor-element-487a607 img{max-width:60%;}.elementor-191 .elementor-element.elementor-element-3b28201 .elementor-heading-title{font-size:16px;}}/* Start custom CSS for section, class: .elementor-element-34269b8 */.elementor-191 .elementor-element.elementor-element-34269b8 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}/* End custom CSS */
+/* Start custom CSS for html, class: .elementor-element-937d063 */.box-wie {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #BF99CB;
+    color: #981D97;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 18px 15px 18px 5px;
+}
+
+
+@media (max-width: 768px) {
+  .box-wie{
+    height: 220px
+  }
+}
+
+.box-wie-title {
+    color: #151515;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+
+.box-wie-description {
+    color: #818181;
+    margin-bottom: 10px;
+    font-size: 16px;
+}/* End custom CSS */
+/* Start custom CSS for html, class: .elementor-element-fe679aa */.box-wie {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #BF99CB;
+    color: #981D97;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 18px 18px;
+}
+
+.box-wie-title {
+    color: #151515;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+
+.box-wie-description {
+    color: #818181;
+    margin-bottom: 10px;
+    font-size: 16px;
+}/* End custom CSS */
+/* Start custom CSS for html, class: .elementor-element-023abd2 */.box-wie {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #BF99CB;
+    color: #981D97;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 18px 15px 18px 5px;
+}
+
+
+@media (max-width: 768px) {
+  .box-wie{
+    height: 220px
+  }
+}
+
+.box-wie-title {
+    color: #151515;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+
+.box-wie-description {
+    color: #818181;
+    margin-bottom: 10px;
+    font-size: 16px;
+}/* End custom CSS */
+/* Start custom CSS for html, class: .elementor-element-0c523c8 */.box-wie {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #BF99CB;
+    color: #981D97;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 18px 15px 18px 5px;
+}
+
+
+@media (max-width: 768px) {
+  .box-wie{
+    height: 220px
+  }
+}
+
+.box-wie-title {
+    color: #151515;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+
+.box-wie-description {
+    color: #818181;
+    margin-bottom: 10px;
+    font-size: 16px;
+}/* End custom CSS */
